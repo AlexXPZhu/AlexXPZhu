@@ -1,7 +1,9 @@
 ### Hi there 👋
 🌱 Xiamen University Malaysia 
-📖 Sophomore student
-🤔 Major in Software Engineering
+
+📖 Sophomore student 
+
+🤔 Major in Software Engineering 
 
 Currently exploring github.
 <!--
