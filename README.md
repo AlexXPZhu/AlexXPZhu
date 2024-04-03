@@ -1,5 +1,9 @@
 ### Hi there 👋
+🌱 Xiamen University Malaysia 
+📖 Sophomore student
+🤔 Major in Software Engineering
 
+Currently exploring github.
 <!--
 **AlexXPZhu/AlexXPZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
