@@ -1,11 +1,10 @@
 ### Hi there 👋
-- 🌱 Xiamen University Malaysia 
+- 🌱 Xiamen University Malaysia/厦大马校
 
-- 📖 Sophomore student 
+- 📖 Junior Year Student/大三学生
 
-- 🤔 Major in Software Engineering 
+- 🤔 Major in Software Engineering/软件工程
 
-- 💻 C++/Java/Python
 
 Currently exploring github.
 <!--
