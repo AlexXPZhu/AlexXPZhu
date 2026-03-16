@@ -1,12 +1,17 @@
 ### Hi there 👋
 - 🌱 Xiamen University Malaysia/厦大马校
 
-- 📖 Junior Year Student/大三学生
+- 📖 Senior Year Student/大四学生
 
 - 🤔 Major in Software Engineering/软件工程
 
+- 🐴 Admitted to HIT for Postgraduate study in Computer science/ 保研至哈工大
 
-Currently exploring github.
+- 💬 Interested in CV/LLM 
+
+
+
+Currently exploring github/ 正在寻找实习
 <!--
 **AlexXPZhu/AlexXPZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
