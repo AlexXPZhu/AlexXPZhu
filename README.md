@@ -7,7 +7,7 @@
 
 - 🐴 Admitted to HIT for Postgraduate study in Computer science/ 保研至哈工大
 
-- 💬 Interested in CV/LLM 
+- 💬 Interested in NLP/LLM/AI infra 
 
 
 
