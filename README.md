@@ -1,17 +1,9 @@
-### Hi there 👋
-- 🌱 Xiamen University Malaysia/厦大马校
-
+### Hi there 👋你好，我是朱兴鹏。
+- 🌱 Xiamen University /厦大
 - 📖 Senior Year Student/大四学生
-
 - 🤔 Major in Software Engineering/软件工程
-
 - 🐴 Admitted to HIT for Postgraduate study in Computer science/ 保研至哈工大
-
-- 💬 Interested in NLP/LLM/AI infra 
-
-
-
-Currently exploring github/ 正在寻找实习
+- 💬 Interested in NLP/LLM/AI infra 主要在学习LLM，多模态相关的知识（模型的蒸馏，量化，端侧部署）。最近也在学习 Agent 和 AI Infra 的知识。
 <!--
 **AlexXPZhu/AlexXPZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
