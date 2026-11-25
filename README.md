@@ -1,14 +1,18 @@
-<!--
-**AlexXPZhu/AlexXPZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Alex 👋
 
-Here are some ideas to get you started:
+I build small tools for **AI workflows** and **research automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+
+- [**Save Papers to Zotero**](https://github.com/AlexXPZhu/save-papers-to-zotero) — Import papers into Zotero with verified PDFs and workflow tags.
+- [**ModelRadar**](https://github.com/AlexXPZhu/model-radar) — Inspect how model APIs respond and keep the raw results locally.
+
+## Currently
+
+- **Building** · _[Current project]_
+- **Exploring** · _[Topic of interest]_
+
+---
+
+<!-- Replace the website and contact placeholders with links when they’re ready. -->
+**Elsewhere** · [Personal website] · [Contact]
